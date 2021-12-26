@@ -2,12 +2,12 @@
 
 ## Используемые технологии
 
-#HTML
+-HTML
 
-#CSS
+-CSS
 
-#Normalize CSS
+-Normalize CSS
 
-#SVG Sprites
+-SVG Sprites
 
-#swiperjs.com -плагин слайдера на JavaScript
+-Плагин слайдера на JavaScript(swiper)
